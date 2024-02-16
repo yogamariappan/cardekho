@@ -1,8 +1,9 @@
 # **Car-price-prediction**
 
 
- <a href="[https://docs.google.com/presentation/d/1oLLQIHura4Ahj02pr9pcQoj_3xJjzxYQ/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true](https://docs.google.com/presentation/d/1EC65SH-e-k724q2jAyG9TwpjsNdkgzdI/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true)">click here cardehko PPT </a>
+ <a href="https://docs.google.com/presentation/d/1EC65SH-e-k724q2jAyG9TwpjsNdkgzdI/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true)">click here cardehko PPT </a>
 
+https://docs.google.com/presentation/d/1EC65SH-e-k724q2jAyG9TwpjsNdkgzdI/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true
 # CarDekho Used Car Price Prediction
 
 ## Project Overview
